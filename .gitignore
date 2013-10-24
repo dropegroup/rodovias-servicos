@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+target/
+
+# netbeans
+nb-configuration.xml
+nbactions.xml
+catalog.xml
+
+#eclipse
+.classpath
+.project
+.settings/
